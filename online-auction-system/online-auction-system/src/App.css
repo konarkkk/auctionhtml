@@ -1,7 +1,7 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  width: 2000px;
+  margin: 0 0;
+  padding: 0rem;
   text-align: center;
 }
 
@@ -33,9 +33,22 @@
 }
 
 .card {
-  padding: 2em;
+  padding: 0em;
 }
 
 .read-the-docs {
   color: #888;
 }
+
+.homepg {
+  padding: 0;
+  margin: 0;
+}
+/* .justify-between{
+  padding: 0;
+  margin: 0;
+} */
+/* 
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities"; */
